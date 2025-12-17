@@ -3,7 +3,7 @@
 🎯 Java Backend Developer (Learner)  
 💻 Working with Servlets, Hibernate & JDBC  
 🗄 Database: PostgreSQL  
-🌱 Currently learning Spring Boot  
+🌱 Currently learning Spring Boot & REST APIs    
 
 ---
 
