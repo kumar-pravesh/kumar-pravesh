@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tejas Joshit
+## 👋 Hi, I'm Pravesh Kumar
 
 🎯 Java Backend Developer (Learner)  
 💻 Working with Servlets, Hibernate & JDBC  
