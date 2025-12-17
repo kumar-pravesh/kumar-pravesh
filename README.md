@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I'm Tejas Joshit
 
-<!--
-**kumar-pravesh/kumar-pravesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Java Backend Developer (Learner)  
+💻 Working with Servlets, Hibernate & JDBC  
+🗄 Database: PostgreSQL  
+🌱 Currently learning Spring Boot  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Java
+- JDBC
+- Hibernate ORM
+- Servlets
+- PostgreSQL
+- Maven
+- Git & GitHub
+
+---
+
+### 📌 Featured Repositories
+- 🔹 java-backend-configs
+- 🔹 servlet-student-app
+- 🔹 hibernate-crud-postgresql
+
+---
+
+### 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/pravesh-kumar-38b1422a7
