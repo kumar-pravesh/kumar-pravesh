@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Pravesh Kumar
+## 👋 Hi, I'm Pravesh 
 
 🎯 Java Backend Developer (Learner)  
 💻 Working with Servlets, Hibernate & JDBC  
