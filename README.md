@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kumar-pravesh/kumar-pravesh/main/banner.png" width="100%" />
-</p>
 # Hi there, I'm Pravesh 👋 
 ### 🚀 Java Full Stack Developer
 I am a passionate Backend Developer focused on building scalable, data-driven applications. I enjoy solving complex problems through efficient code and robust architecture.
