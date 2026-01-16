@@ -24,9 +24,12 @@ I am a passionate Backend Developer focused on building scalable, data-driven ap
 - **Focus:** DAO pattern implementation and PostgreSQL integration.
 - **Tech:** Java, JDBC, PostgreSQL.
 ---
-### 📊 GitHub Stats
-![Pravesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar-pravesh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-pravesh&layout=compact&theme=radical)
+### 📊 GitHub Stats & Activity
+Here are some live metrics from your GitHub profile (using stable alternative providers):
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumar-pravesh&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kumar-pravesh&theme=radical)
+#### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumar-pravesh&theme=dracula)
 ---
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/pravesh-kumar-38b1422a7) | [Portfolio Website](https://github.com/kumar-pravesh/My-Portfolio)
