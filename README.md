@@ -32,6 +32,6 @@ Here are some live metrics from your GitHub profile (using stable alternative pr
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumar-pravesh&theme=dracula)
 ---
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/pravesh-kumar-38b1422a7) | [Portfolio Website](https://github.com/kumar-pravesh/My-Portfolio)
+[LinkedIn](https://www.linkedin.com/in/pravesh-kumar-38b1422a7) | [Portfolio Website](https://my-portfolio-seven-delta-80.vercel.app/)
 ---
 *"Talk is cheap. Show me the code." - Linus Torvalds*
