@@ -61,7 +61,7 @@
 #### 🌐 [My Portfolio](https://github.com/kumar-pravesh/My-Portfolio)
 > Personal developer portfolio showcasing projects, skills, and contact information.
 
-- **Live:** [pravesh-portfolio.vercel.app](https://pravesh-portfolio.vercel.app)
+- **Live:** [pravesh-portfolio.vercel.app](https://my-portfolio-seven-delta-80.vercel.app/)
 - **Tech:** React 19, Vite, Framer Motion, Typed.js, Vanilla CSS
 
 ---
