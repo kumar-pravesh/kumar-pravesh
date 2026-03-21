@@ -1,28 +1,69 @@
-# Hi there, I'm Pravesh 👋 
-### 🚀 Java Full Stack Developer
-I am a passionate Backend Developer focused on building scalable, data-driven applications. I enjoy solving complex problems through efficient code and robust architecture.
+<h1 align="center">Hi there, I'm Pravesh 👋</h1>
+
+<h3 align="center">🚀 Full Stack Developer | Java Backend · React Frontend</h3>
+
+<p align="center">
+  Passionate about building scalable, data-driven applications. I blend solid Java backend expertise with modern React frontends to deliver complete, production-ready products.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pravesh-kumar-38b1422a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kumar-pravesh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://pravesh-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
+
 ### 🛠️ My Technical Toolbox
+
 | Category | Technology |
 | :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+
 ---
+
 ### 🌟 Featured Projects
-#### [Go-Easy](https://github.com/kumar-pravesh/Go-Easy)
-> An on-demand booking system inspired by Rapido/Ola.
-- **Goal:** Real-time request management and booking services.
-- **Tech:** Java, Backend architecture, Database management.
-#### [Hibernate Learning Demo](https://github.com/kumar-pravesh/hibernate-learning-demo)
-> A deep dive into ORM concepts.
-- **Features:** Implementation of 1:1, 1:N, and N:N mappings.
-- **Tech:** Hibernate, JPA, Java.
-#### [JDBC Manager Management System](https://github.com/kumar-pravesh/JDBC-Manager-Management-System)
-> Advanced CRUD application.
-- **Focus:** DAO pattern implementation and PostgreSQL integration.
-- **Tech:** Java, JDBC, PostgreSQL.
+
+#### 🏥 [Clinixa – Hospital Management System](https://github.com/kumar-pravesh/Clinixa-Frontend)
+> A full-stack hospital management platform with a public patient-facing portal and a role-based internal staff system.
+
+- **Features:** Patient registration, appointment booking, billing, prescriptions & lab management
+- **Live:** [Patient Portal](https://clinixa-frontend-sage.vercel.app/) · [Staff Portal](https://clinixa-staff-portal.vercel.app/login)
+- **Tech:** React (Vite), Node.js, PostgreSQL (Neon), REST APIs, JWT Auth
+
+---
+
+#### 🛵 [Go-Easy](https://github.com/kumar-pravesh/Go-Easy)
+> An on-demand ride booking system inspired by Rapido/Ola, focusing on real-time service booking and request management.
+
+- **Goal:** Real-time driver-rider matching, booking lifecycle management
+- **Tech:** Java, Spring Boot, React (Vite), REST API, Database management
+
+---
+
+#### 🏢 [Aapthi Marketing Solutions](https://github.com/kumar-pravesh/Aapthi-Marketing-Solutions)
+> A premium full-stack corporate and staffing platform built for a real-world marketing agency.
+
+- **Live:** [aapthi-marketing-solutions.vercel.app](https://aapthi-marketing-solutions.vercel.app/)
+- **Tech:** React.js, Tailwind CSS v4, Node.js/Express, Neon Postgres
+
+---
+
+#### 🌐 [My Portfolio](https://github.com/kumar-pravesh/My-Portfolio)
+> Personal developer portfolio showcasing projects, skills, and contact information.
+
+- **Live:** [pravesh-portfolio.vercel.app](https://pravesh-portfolio.vercel.app)
+- **Tech:** React 19, Vite, Framer Motion, Typed.js, Vanilla CSS
+
 ---
 ### 📊 GitHub Stats & Activity
 Here are some live metrics from your GitHub profile (using stable alternative providers):
