@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pravesh 👋</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Java Backend · React Frontend</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Backend | Node.Js · React Frontend</h3>
 
 <p align="center">
   Passionate about building scalable, data-driven applications. I blend solid Java backend expertise with modern React frontends to deliver complete, production-ready products.
@@ -32,6 +32,15 @@
 ---
 
 ### 🌟 Featured Projects
+
+#### 🌐 [SiviOn Global Technologies](https://github.com/kumar-pravesh/Sivion-Global-Technologies)
+> A full-stack corporate web platform with dynamic service pages, career portal, blog, and portfolio management.
+
+- **Features:** Job application portal, contact forms via REST APIs, authenticated staff content management
+- **Live:** [sivion-global-technologies.vercel.app](https://sivion-global-technologies.vercel.app/) · Backend on Render
+- **Tech:** React.js, Node.js, Express.js, MongoDB, REST API, Vite, Vercel
+
+---
 
 #### 🏥 [Clinixa – Hospital Management System](https://github.com/kumar-pravesh/Clinixa-Frontend)
 > A full-stack hospital management platform with a public patient-facing portal and a role-based internal staff system.
